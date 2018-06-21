@@ -1,4 +1,4 @@
-# grafana-dashboards!
+# grafana-dashboards
 
 ## 1、 zookeeper dashboard
 
