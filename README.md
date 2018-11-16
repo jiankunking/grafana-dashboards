@@ -1,7 +1,7 @@
 # grafana-dashboards
 
 ## 1、zookeeper_exporter
-![zookeeper_exporter](https://github.com/jiankunking/zookeeper_exporter)
+[zookeeper_exporter](https://github.com/jiankunking/zookeeper_exporter)
 
 ## 2、 zookeeper dashboard
 
