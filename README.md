@@ -10,7 +10,7 @@
 
 ## 3、elasticsearch dashboard
 
-![grafana-elasticsearch-dashboard](https://github.com/jiankunking/grafana-elasticsearch-dashboard)
+[grafana-elasticsearch-dashboard](https://github.com/jiankunking/grafana-elasticsearch-dashboard)
 
 
 
