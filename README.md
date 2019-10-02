@@ -8,6 +8,10 @@
 ![zookeeper_dashboard](https://github.com/jiankunking/grafana-dashboards/blob/master/image/zookeeper_dashboard.png)
 
 
+## 3、elasticsearch dashboard
+
+![grafana-elasticsearch-dashboard](https://github.com/jiankunking/grafana-elasticsearch-dashboard)
+
 
 
 
